@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:sarbjot4122@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/sarbjot-singh-096481354">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://huggingface.co/YOURPROFILE">
