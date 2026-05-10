@@ -1,85 +1,163 @@
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">Hi 👋, I'm Sarbjot Singh</h1>
 
-<p align="center">
-🚀 https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip Data Science Student | AI & ML Enthusiast | Future Data Analyst
-</p>
+<h3 align="center">
+🚀 Data Science Student | AI & ML Enthusiast | Future Data Analyst
+</h3>
 
 <p align="center">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip+%26+Machine+Learning+Developer;Computer+Vision+Projects;Data+Analytics+Learner;Building+AI+for+Real+World+Impact">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Projects;Data+Analytics+Learner;Building+AI+for+Real+World+Impact" />
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+🎓 Final-year **B.Tech Data Science** student specializing in Artificial Intelligence and Machine Learning.
+
+💡 Passionate about building intelligent systems that solve real-world problems using:
+
+* Machine Learning
+* Computer Vision
+* IoT
+* Data Analytics
+
+---
+
+# 🚀 Current Focus
+
+* 🚗 Driver Drowsiness Detection System
+* 📚 AI-Powered Library Management System
+* ❤️ Heart Disease Prediction
+* 📊 Data Analytics & Visualization
+* 🤖 Machine Learning Projects
+
+---
+
+# ⚙️ Technical Arsenal
+
+## 🧑‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+Machine Learning • Deep Learning • Recommendation Systems • NLP
+</p>
+
+---
+
+## 👁️ Computer Vision & IoT
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,arduino" />
+</p>
+
+---
+
+## 🌐 Backend & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 AI-Powered Library Management System
+
+Smart library automation system integrating:
+
+* RFID authentication
+* Flask backend
+* Machine Learning recommendations
+* Late return prediction
+* Arduino IoT kiosk
+* AI chatbot integration
+
+---
+
+## 🚗 Driver Drowsiness Detection System
+
+Real-time Computer Vision system using:
+
+* OpenCV
+* Arduino
+* Eye closure detection
+* Smart alert system
+
+---
+
+## ❤️ Heart Disease Prediction
+
+Machine Learning model predicting heart disease risk using classification algorithms and medical data analysis.
+
+---
+
+# 📈 GitHub Dashboard
+
 <p align="center">
-<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarb-jot&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarb-jot&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarb-jot&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sarb-jot&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+* Advanced SQL for Data Analytics
+* Recommendation Systems
+* Machine Learning Deployment
+* AI System Design
+* Data Engineering Fundamentals
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Sarb-jot">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
-</a>
-<a href="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
-</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💡 Fun Fact
 
-🎓 Final-year **https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip Data Science** student specializing in AI & Machine Learning.  
-💡 I don’t just build models — I build **real-world solutions**.
+I love building AI systems that combine:
 
-- 🚗 Current Project: Driver Drowsiness Detection System
-- ❤️ ML Project: Heart Disease Prediction
-- 📍 Based in India | Open to AI / Data Analyst roles
-- ⚡ Goal: Build impactful AI that solves real problems
+* Software + Hardware
+* AI + IoT
+* Analytics + Automation
 
 ---
-
-## ⚙️ Technical Arsenal
-
-| Category | Tools & Technologies |
-|---|---|
-| 🧑‍💻 Languages | ![Python](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![SQL](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
-| 🤖 AI / ML | ![PyTorch](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![TensorFlow](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![Scikit](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
-| 👁️ Computer Vision | ![OpenCV](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![MediaPipe](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
-| 📊 Data Tools | ![Pandas](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![NumPy](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) ![Hadoop](https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip) |
-
----
-
-## 🚀 Featured AI Projects
-
-### 🚗 Driver Drowsiness Detection
-Real-time Computer Vision system using **OpenCV + Arduino** to prevent accidents by detecting eye closure.
-
-### ❤️ Heart Disease Detection (Machine Learning)
-Predictive ML model analyzing health metrics to assist early diagnosis.
-
-### 📊 Social-Good Sentiment Analyzer
-NLP-based system analyzing social media data for impact trends.
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
+⭐ Always open to collaborating on AI, Machine Learning, Computer Vision, and Data Analytics projects.
 </p>
-
-<p align="center">
-<img src="https://github.com/Sarb-jot/Sarb-jot/raw/refs/heads/main/protephemeroid/jot-Sarb-3.2.zip"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Advanced SQL for Data Analytics
-- Machine Learning Deployment
-- Data Visualization & Analytics
-
----
-
-## 🌐 Let's Connect
-
-⭐ If you like AI, Data Science, or Computer Vision — let's collaborate!
